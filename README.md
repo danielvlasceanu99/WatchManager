@@ -15,16 +15,12 @@ Install-Package Microsoft.EntityFrameworkCore.SqlServer
 ```
 ```sh
 Add-Migration InitialCreate
-```
-``` sh 
 Update-Database
 ```
 Run the app using F5 for debug mode or CTRL+F5 to run without debuging
 
-##### To add a new migration run 
+### To add a new migration run 
 ```sh 
 Add-Migration migratio_name
-```
-```sh 
 Update-Database
 ```
