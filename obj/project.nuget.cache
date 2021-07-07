@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eg3EyqVA2QG46EIfMbhxQZVgtXKUtUWm7P7FTIEPy8NWneq7S4so4624MAODOWL8gHG1PZ9tyiz75nxZgLD/cw==",
+  "dgSpecHash": "Z9nF/cx5DuQpD2f0aA5H60uia/HRmlXgiZbUqQQNyMBLyYfAwh6Kd97gZTQrKlEs7I2vr72RkW+W/faQJFRt1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\Desktop\\Watch manager\\Watch manager.csproj",
+  "projectFilePath": "C:\\Users\\danie\\Desktop\\WatchManager\\Watch manager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

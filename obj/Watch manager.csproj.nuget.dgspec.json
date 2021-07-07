@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\Desktop\\Watch manager\\Watch manager.csproj": {}
+    "C:\\Users\\danie\\Desktop\\WatchManager\\Watch manager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\Desktop\\Watch manager\\Watch manager.csproj": {
+    "C:\\Users\\danie\\Desktop\\WatchManager\\Watch manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\Desktop\\Watch manager\\Watch manager.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Desktop\\WatchManager\\Watch manager.csproj",
         "projectName": "Watch manager",
-        "projectPath": "C:\\Users\\danie\\Desktop\\Watch manager\\Watch manager.csproj",
+        "projectPath": "C:\\Users\\danie\\Desktop\\WatchManager\\Watch manager.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\Desktop\\Watch manager\\obj\\",
+        "outputPath": "C:\\Users\\danie\\Desktop\\WatchManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
         }
       }
     }
